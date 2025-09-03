@@ -12,10 +12,6 @@ The goal is to increase customer engagement while helping users organize persona
 - ✅ Reminders and service suggestions (bank services linked to tasks)  
 - ✅ Team functionality (delegation, progress tracking, expense reports)  
 - ✅ Cashback rewards for using integrated services  
-- ✅ Visualization of scheduling challenges:
-  - Bar charts for average schedule difficulty  
-  - Heatmaps for back-to-back game trends  
-  - Line plots for travel burdens over time  
 
 ---
 
@@ -38,7 +34,6 @@ The goal is to increase customer engagement while helping users organize persona
 
 - Python (Jupyter/Colab)  
 - Pandas, NumPy (data handling)  
-- Matplotlib, Seaborn, Plotly (visualizations)  
 - Graphviz / NetworkX (process diagrams)  
 
 ---

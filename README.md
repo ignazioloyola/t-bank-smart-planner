@@ -47,5 +47,5 @@ The goal is to increase customer engagement while helping users organize persona
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/t-bank-smart-planner.git
+   git clone https://github.com/ignazioloyola/t-bank-smart-planner.git
    cd t-bank-smart-planner
